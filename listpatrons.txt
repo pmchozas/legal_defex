@@ -1,0 +1,64 @@
+considerarán:->N O U N::futuro 
+entenderá:->V E R B   A D P   D E T   N O U N   A D J::nconsidera:->N O U N   A D P   N O U N::futuro 
+considerarán:->N O U N   A D J::futuro 
+deberá:->N O U N   A U::futuro 
+considerarán:->D E T   N O U N::futuro 
+deberá:->N O U N   A U::futuro 
+deberá:->N O U N   A U::futuro 
+entenderá:->A D J   A D P   N O U N   A D J::nconsiderará:->N O U N   A D P::futuro 
+entenderá:->A D J   A D P   N O U N   A D J::ndeberá:->N O U N   A U::futuro 
+deberá:->N O U N   A U::futuro 
+consideran:->N O U N   A D J::futuro 
+deberá:->N O U N   A U::futuro 
+deberá:->N O U N::futuro 
+deberá:->N O U N::futuro 
+entenderán:->A D J   C O N J   A D P   N O U N::nentenderá:->N O U N   A D J::nconsiderará:->N O U N::futuro 
+considerará:->N O U N::futuro 
+entiende:->V E R B   N O U N   A D P   D E T   N O U N::nhayan:->N O U N::ndeberán:->N O U N   A U::futuro 
+considerará:->N O U N   A D P   N O U N::futuro 
+considera:->N O U N   A D J::futuro 
+considerará:->A D J   N O U N::futuro 
+considera:->N O U N   A D P   N O U N::futuro 
+deberán:->V E R B   A D P   N O U N::futuro 
+deberá:->N O U N   A U::futuro 
+deban:->N O U N::futuro 
+considerarán:->A D J   A D P   N O U N::futuro 
+deberá:->N O U N   A U::futuro 
+deberá:->N O U N   A U::futuro 
+deberán:->N O U N::futuro 
+deberán:->N O U N   A U::futuro 
+considera:->A D P   N O U N   A D J::futuro 
+considera:->A D P   N O U N   A D J::futuro 
+deberá:->N O U N   A U::futuro 
+deberá:->N O U N   A U::futuro 
+deberán:->N O U N   A U::futuro 
+habrá:->N O U N::ndeberán:->N O U N   A D P   D E T   N O U N   C O N J   N O U N::futuro 
+deberán:->P U N C T   D E T   N O U N   C O N J   N O U N   A U::futuro 
+entiende:->P R O N   V E R B   A D P   D E T   N O U N::ndeberán:->A D J   C O N J   D E T   N O U N   A U::futuro 
+deberán:->N O U N::futuro 
+deberán:->N O U N   A U::futuro 
+deberá:->N O U N   A U::futuro 
+entiende:->V E R B   N O U N   A D J::nentenderá:->D E T   N O U N   A U X   A D J::nentiende:->V E R B   N O U N   A D J::ndeberá:->N O U N   A U::futuro 
+deberá:->N O U N   A U::futuro 
+deberán:->N O U N   A U::futuro 
+entenderá:->N O U N   A D P   N O U N::ndeberá:->N O U N::futuro 
+entenderán:->A D J   A D V::ndeberán:->N O U N   A D J   A D P   D E T   A D J::futuro 
+ha:->N O U N::nhaya:->N O U N::nentenderá:->N O U N   A D J::nentiende:->V E R B   N O U N   A D J::nentenderá:->D E T   N O U N   A U X   A D J::nentiende:->V E R B   N O U N   A D J::ndeberá:->N O U N::futuro 
+deberá:->N O U N   A U::futuro 
+deberá:->N O U N   A U::futuro 
+deberán:->N O U N   A U::futuro 
+considerarán:->N O U N   A D J::futuro 
+entenderá:->P R O N   V E R B   A D P   D E T   N O U N::nconsiderará:->V E R B   D E T   N O U N::futuro 
+deberá:->N O U N   A U::futuro 
+deberán:->N O U N   A U::futuro 
+deberá:->N O U N   A U::futuro 
+deberá:->N O U N::futuro 
+entiende:->V E R B   N O U N   A D J::nentenderá:->D E T   N O U N   A U X   A D J::nentiende:->V E R B   N O U N   A D J::ndeberán:->N O U N   A U::futuro 
+entenderá:->A D V   A D J   D E T   N O U N   A D J::nentenderá:->A D V   A D J   D E T   N O U N   A D J::ndeberá:->N O U N   A U::futuro 
+deberá:->N O U N   A U::futuro 
+deberá:->N O U N::futuro 
+deberá:->N O U N::futuro 
+consideran:->A D J   A D P   N O U N::futuro 
+entenderá:->V E R B   N O U N   A D J::ndeberán:->N O U N   A D P::futuro 
+haya:->N O U N::ndeberán:->N O U N   A D P   N O U N   P R O N::futuro 
+deberán:->N O U N   A D P   N O U N   P R O N::futuro 
