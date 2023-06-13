@@ -4,3 +4,8 @@ The experiment compares two different approaches: 1) identying definiendum and d
 <p align="center">
 <img src="https://github.com/pmchozas/legal_defex/blob/master/static/approach.png" width="80%" />
 </p>
+
+## Citation
+Vázquez-Flores, K., Martín-Chozas, P. and Montiel-Ponsoda, E. (2021).
+Challenges of Definition Extraction in Spanish Legal Texts. 
+XIX Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA).
